@@ -1,0 +1,12 @@
+.cards_content{
+    display: flex;
+    /* Quando chegar na largura maxima da pagina ele quebra pra linha de baixo */
+    flex-wrap: wrap;
+    /* Espaçar todos os itens igualmente */
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+
+}

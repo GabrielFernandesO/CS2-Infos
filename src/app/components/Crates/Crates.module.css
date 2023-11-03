@@ -1,0 +1,7 @@
+.crates{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    padding: 2em;
+    margin-bottom: 5em;
+}
