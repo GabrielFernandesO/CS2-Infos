@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import Link from 'next/link';
 
+
+
 import styles from './CardAgentes.module.css'
 
 export default function CardAgents( {agentes}){

@@ -10,3 +10,18 @@
     padding: 20px;
 
 }
+.btn_CarregaMais{
+    text-decoration: none;
+    background-color: #fff;
+    color: #222;
+    padding: .7em 1.2em;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .4s;
+    cursor: pointer;
+    justify-self: center;
+}
+
+.btn_CarregaMais:hover{
+    background-color: #e48717;
+}

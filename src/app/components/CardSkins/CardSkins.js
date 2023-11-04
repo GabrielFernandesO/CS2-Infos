@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link';
 
+
 import styles from './CardSkins.module.css'
 
 export default function CardSkins( {skins}){
